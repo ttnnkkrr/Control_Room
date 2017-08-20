@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d756c14a-f054-4573-aa07-41a747145df5" name="ahk" url="http://localhost:8000">
+        <fileTransfer mountedRoot="C:\Bitnami\wampstack-7.1.7-0\apache2\htdocs\control_room" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
